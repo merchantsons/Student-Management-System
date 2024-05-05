@@ -1,4 +1,4 @@
-WORD COUNTER<br>
+STUDENT MANAGEMENT SYSTEM<br>
 
 # GSITI
 Governor Sindh IT Initiative Repositories <br>
